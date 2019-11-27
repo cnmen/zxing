@@ -11,15 +11,15 @@
 
 Via Gradle:
 ```gradle
-implementation 'com.cmonbaby.zxing.core:zxing_library:1.0.0'
+implementation 'com.cmonbaby.zxing.library:zxing_library:1.1.0'
 ```
 
 Via Maven:
 ```xml
 <dependency>
-    <groupId>com.cmonbaby.zxing.core</groupId>
+    <groupId>com.cmonbaby.zxing.library</groupId>
     <artifactId>zxing_library</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
