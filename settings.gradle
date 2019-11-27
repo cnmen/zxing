@@ -1,2 +1,2 @@
-include ':app', ':zxing_library'
+include ':app'
 rootProject.name='zxing_demo'
